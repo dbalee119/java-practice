@@ -18,3 +18,8 @@
  - git init
  - git config --global user.name "이근호"
  - git config --global user.email "your@email.com"
+ - git remote add origin https://github.com/yourname/practice1.git
+ - git remote -v  # 연결 확인
+ - git add README.md
+ - git commit -m "first commit"
+ - git branch -M main
